@@ -1,4 +1,4 @@
-# no
+# QR_Code_Generation
 Getting the data from user and we can Create,
 Read, Sort, Delete and Update data as per user
 choice. Using the data we Generate QR Code in
